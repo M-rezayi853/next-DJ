@@ -10,6 +10,9 @@ npm run dev
 yarn dev
 ```
 
+## Domains:
+(https://dj-frontend-m-hazara-77.vercel.app)
+
 ### Emails:
 jhon@gmail.com ---> qwerty
 mahdi@gmail.com ---> qwerty
