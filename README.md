@@ -11,7 +11,10 @@ yarn dev
 ```
 
 ## Domains:
-(https://dj-frontend-m-hazara-77.vercel.app)
+### frontend-next-js:(vercel)
+- https://dj-frontend-m-hazara-77.vercel.app
+### backend-strapi:(heroku)
+- https://dj-backend-m-hazara-77.herokuapp.com/admin
 
 ### Emails:
 jhon@gmail.com ---> qwerty
