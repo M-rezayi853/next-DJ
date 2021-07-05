@@ -1,6 +1,10 @@
 .event {
   position: relative;
   padding-top: 40px;
+  background-color: #eee;
+  padding: 30px 40px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .event h3 {
@@ -13,6 +17,10 @@
 
 .image {
   margin-bottom: 20px;
+}
+
+.image img {
+  border-radius: 5px;
 }
 
 .controls {
